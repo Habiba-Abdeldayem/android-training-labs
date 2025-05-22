@@ -21,10 +21,10 @@ A responsive email client app demonstrating **adaptive layouts**, **navigation p
 ## 🖼️ Screenshots
 
 <p float="left">
-  <img src="screenshots/img.png" width="30%" />
-  <img src="screenshots/img_1.png" width="30%" />
-  <img src="screenshots/img_2.png" width="30%" />
+  <img src="screenshots/img_1.png" width="40%" />
+  <img src="screenshots/img_2.png" width="40%" />
 </p>
+<img src="screenshots/img.png" />
 
 ## 🚀 Getting Started
 
