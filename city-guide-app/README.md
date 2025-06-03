@@ -11,12 +11,3 @@ A simple Android app that helps users explore recommendations for activities and
 - Responsive UI with adaptive layouts for different screen sizes.
 - Clean separation between UI and data layers.
 
----
-
-## Demo
-
-## Demo
-
-| Expanded View | Compact View |
-| ------------- | ------------ |
-| ![Expanded View](demo/expanded.gif) | ![Compact View](demo/compact.gif) |
